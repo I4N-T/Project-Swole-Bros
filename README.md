@@ -1,3 +1,3 @@
-# OnMyOwn2
+# Project Swole Bros
 
-This is a test.
+This repository contains the code for the game Project Swole Bros.
